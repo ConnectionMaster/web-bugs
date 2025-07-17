@@ -1,2 +1,8 @@
 User-agent: *
 Disallow: /bug-pwd-finder.php
+
+User-agent: *
+Disallow: /rss
+
+User-agent: *
+Disallow: /search
